@@ -1,6 +1,9 @@
 [submodule "techtana.github.io"]
 	path = techtana.github.io
 	url = https://github.com/techtana/techtana.github.io
-[submodule "ghaction_ai_enhanced_blogpost"]
-	path = ghaction_ai_enhanced_blogpost
-	url = https://github.com/techtana/ghaction_ai_enhanced_blogpost.git
+[submodule "ghaction_blogpost_ai_enhanced"]
+	path = ghaction_blogpost_ai_enhanced
+	url = https://github.com/techtana/ghaction_blogpost_ai_enhanced.git
+[submodule "ghaction_blogpost_from_ipynb"]
+	path = ghaction_blogpost_from_ipynb
+	url = https://github.com/techtana/ghaction_blogpost_from_ipynb.git
