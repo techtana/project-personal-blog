@@ -7,3 +7,6 @@
 [submodule "ghaction_blogpost_from_ipynb"]
 	path = ghaction_blogpost_from_ipynb
 	url = https://github.com/techtana/ghaction_blogpost_from_ipynb.git
+[submodule "content_management_platform"]
+	path = content_management_platform
+	url = https://github.com/techtana/content_management_platform.git
